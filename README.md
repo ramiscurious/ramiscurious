@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Chandu Ram 👋
 
-<!--
-**ramiscurious/ramiscurious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Enthusiastic to learn new things  
+💻 Front-end Web Developer | Java Backend Learner  
+📚 Currently working on Offline Chatbots & WhatsApp Automation  tools
+🌱 Always exploring Open Source Projects  
 
-Here are some ideas to get you started:
+🚀 Projects
+WhatsApp News Bot - Sends hourly news in Telugu via WhatsApp.
+PDF to Chat Q&A - Ask questions from any document offline.
+Instagram Reels Auto-Liker - Browser extension to like reels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+LinkedIn - www.linkedin.com/in/chandu-ram-bodepu
+Gmail - ajaybodepu@gmail.com)
+
+🛠️ Languages and Tools:
+HTML
+CSS
+JavaScript
+Java
+MySQL
+Basic Python
