@@ -15,9 +15,9 @@ LinkedIn - www.linkedin.com/in/chandu-ram-bodepu
 Gmail - ajaybodepu@gmail.com)
 
 🛠️ Languages and Tools:
-HTML
-CSS
-JavaScript
-Java
-MySQL
+HTML,
+CSS,
+JavaScript,
+Java,
+MySQL,
 Basic Python
